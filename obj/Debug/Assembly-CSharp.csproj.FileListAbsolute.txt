@@ -1,0 +1,2 @@
+B:\Unity\Low Poly Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+B:\Unity\Low Poly Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
